@@ -1,4 +1,5 @@
 # 🌤️ Weather App with AI Outfit Recommendations
+# Demo video: https://www.youtube.com/watch?v=ZmitKvHzAnI
 
 A modern weather application that displays real-time weather data and provides smart, AI-generated outfit suggestions based on the local weather conditions.
 
